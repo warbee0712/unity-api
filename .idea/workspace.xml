@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b993a45-8c44-499b-ab8f-c25ff1827fb6" name="Default Changelist" comment="">
+    <list default="true" id="37d45d0a-e469-400c-86d8-6ed74d2ce92d" name="Default Changelist" comment="fix: project title update">
       <change beforePath="$PROJECT_DIR$/readme.html" beforeDir="false" afterPath="$PROJECT_DIR$/readme.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,8 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+
+
   <component name="ProjectId" id="2dkCF8YslhLxKpsPLXsSyLM2Vkr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -70,10 +72,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: initial commit" />
-    <MESSAGE value="feat: new brunch commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: new brunch commit" />
   </component>
 </project>
