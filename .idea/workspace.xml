@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37d45d0a-e469-400c-86d8-6ed74d2ce92d" name="Default Changelist" comment="fix: project title update">
-      <change beforePath="$PROJECT_DIR$/readme.html" beforeDir="false" afterPath="$PROJECT_DIR$/readme.html" afterDir="false" />
-    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
