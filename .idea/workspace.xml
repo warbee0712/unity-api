@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+=======
+    <list default="true" id="f5318a57-3fc5-4dbb-a59f-d96ba93ee2f6" name="Default Changelist" comment="" />
+>>>>>>> 6644c8b7702da14e18c886db51e8efd042825e4a
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,20 +13,31 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$" value="dev" />
+=======
+        <entry key="$PROJECT_DIR$" value="mvp-004" />
+>>>>>>> 6644c8b7702da14e18c886db51e8efd042825e4a
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
 
 
   <component name="ProjectId" id="2dkCF8YslhLxKpsPLXsSyLM2Vkr" />
+=======
+  <component name="ProjectId" id="2dpNnmcDLU2QzIiqa1JaM1bAabz" />
+>>>>>>> 6644c8b7702da14e18c886db51e8efd042825e4a
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+=======
+>>>>>>> 6644c8b7702da14e18c886db51e8efd042825e4a
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -32,6 +47,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="6b993a45-8c44-499b-ab8f-c25ff1827fb6" name="Default Changelist" comment="" />
       <created>1710542582559</created>
       <option name="number" value="Default" />
@@ -54,6 +70,15 @@
       <updated>1710542744688</updated>
     </task>
     <option name="localTasksCounter" value="3" />
+=======
+      <changelist id="f5318a57-3fc5-4dbb-a59f-d96ba93ee2f6" name="Default Changelist" comment="" />
+      <created>1710701229639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710701229639</updated>
+      <workItem from="1710701231290" duration="4000" />
+    </task>
+>>>>>>> 6644c8b7702da14e18c886db51e8efd042825e4a
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,9 +94,13 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix: update the Project Summary" />
     <option name="LAST_COMMIT_MESSAGE" value="fix: update the Project Summary" />
+=======
+    <option name="oldMeFiltersMigrated" value="true" />
+>>>>>>> 6644c8b7702da14e18c886db51e8efd042825e4a
   </component>
 </project>
