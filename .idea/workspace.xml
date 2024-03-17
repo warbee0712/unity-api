@@ -73,4 +73,8 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix: update the Project Summary" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update the Project Summary" />
+  </component>
 </project>
